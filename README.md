@@ -1,3 +1,4 @@
+#C++
 // A C++ Program to generate test cases for
 // random number
 #include<bits/stdc++.h>
